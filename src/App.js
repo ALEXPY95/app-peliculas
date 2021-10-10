@@ -22,7 +22,7 @@ function App() {
           </Switch>
       </main>
     </Router>
-  );
+  )
 }
 
 export default App;
